@@ -52,4 +52,4 @@ Used to compress images used throughout the website without affecting image qual
 Throughout the project build life, testing the responsiveness of elements and CSS Open used to obtain hexadecimal/rgba/hsl values of colours. 
 Built by Kepi (Kepi's Github)Some Imported Javascript & JQuery ~ For the Modal and Responsive Navbar expand & collapse functionality.
 
-This for educational use only!
+This for educational use only!# connecting-africa1
